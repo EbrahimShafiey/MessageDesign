@@ -1,0 +1,10 @@
+C:\Users\EbrahimShafiey\source\repos\MessageDesign\MessageDesign\bin\Debug\MessageDesign.exe.config
+C:\Users\EbrahimShafiey\source\repos\MessageDesign\MessageDesign\bin\Debug\MessageDesign.exe
+C:\Users\EbrahimShafiey\source\repos\MessageDesign\MessageDesign\bin\Debug\MessageDesign.pdb
+C:\Users\EbrahimShafiey\source\repos\MessageDesign\MessageDesign\obj\Debug\MessageDesign.csprojAssemblyReference.cache
+C:\Users\EbrahimShafiey\source\repos\MessageDesign\MessageDesign\obj\Debug\MessageDesign.Form1.resources
+C:\Users\EbrahimShafiey\source\repos\MessageDesign\MessageDesign\obj\Debug\MessageDesign.Properties.Resources.resources
+C:\Users\EbrahimShafiey\source\repos\MessageDesign\MessageDesign\obj\Debug\MessageDesign.csproj.GenerateResource.cache
+C:\Users\EbrahimShafiey\source\repos\MessageDesign\MessageDesign\obj\Debug\MessageDesign.csproj.CoreCompileInputs.cache
+C:\Users\EbrahimShafiey\source\repos\MessageDesign\MessageDesign\obj\Debug\MessageDesign.exe
+C:\Users\EbrahimShafiey\source\repos\MessageDesign\MessageDesign\obj\Debug\MessageDesign.pdb
